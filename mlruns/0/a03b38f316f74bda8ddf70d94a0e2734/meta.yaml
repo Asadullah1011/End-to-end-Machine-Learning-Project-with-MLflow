@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mac/Documents/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/a03b38f316f74bda8ddf70d94a0e2734/artifacts
+end_time: 1718228930379
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a03b38f316f74bda8ddf70d94a0e2734
+run_name: resilient-sheep-141
+run_uuid: a03b38f316f74bda8ddf70d94a0e2734
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718228925185
+status: 3
+tags: []
+user_id: mac

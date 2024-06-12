@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mac/Documents/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/e21e18d6fdb845f1801bec655040fe80/artifacts
+end_time: 1718229168315
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e21e18d6fdb845f1801bec655040fe80
+run_name: spiffy-auk-447
+run_uuid: e21e18d6fdb845f1801bec655040fe80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718229163462
+status: 3
+tags: []
+user_id: mac

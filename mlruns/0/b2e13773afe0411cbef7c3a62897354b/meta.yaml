@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mac/Documents/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/b2e13773afe0411cbef7c3a62897354b/artifacts
+end_time: 1718228800231
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b2e13773afe0411cbef7c3a62897354b
+run_name: exultant-shoat-587
+run_uuid: b2e13773afe0411cbef7c3a62897354b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718228795418
+status: 3
+tags: []
+user_id: mac

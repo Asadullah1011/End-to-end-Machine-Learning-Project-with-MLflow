@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mac/Documents/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/175a405ab2cf4d45bb3e924af0620430/artifacts
+end_time: 1718229057076
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 175a405ab2cf4d45bb3e924af0620430
+run_name: skillful-slug-733
+run_uuid: 175a405ab2cf4d45bb3e924af0620430
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718229052163
+status: 3
+tags: []
+user_id: mac
